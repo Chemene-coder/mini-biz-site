@@ -1,4 +1,3 @@
-# mini-biz-site
 
 # 🛍️ MiniBiz — One-Stop Business Website
 
@@ -54,7 +53,8 @@ mini-biz-site/
 
 ## 📸 Screenshots
 
-Add a screenshot of the homepage here (optional for now).
+![MiniBiz Live Screenshot](img/minibiz.png)
+
 
 ---
 
