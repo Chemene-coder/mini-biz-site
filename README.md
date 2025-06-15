@@ -54,6 +54,7 @@ mini-biz-site/
 ## 📸 Screenshots
 
 ![MiniBiz Live Screenshot](img/minibiz.png)
+*MiniBiz homepage preview (above-the-fold)*
 
 
 ---
