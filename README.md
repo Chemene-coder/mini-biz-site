@@ -1,6 +1,12 @@
 
 # 🛍️ MiniBiz — One-Stop Business Website
 
+![GitHub Repo stars](https://img.shields.io/github/stars/chemene-coder/mini-biz-site?style=social)
+![GitHub forks](https://img.shields.io/github/forks/chemene-coder/mini-biz-site?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/chemene-coder/mini-biz-site)
+![GitHub](https://img.shields.io/github/license/chemene-coder/mini-biz-site)
+
+
 A clean, responsive demo business website built for small service-based businesses. This static site includes a homepage, service section, about page, and a working (mock) contact form.
 
 ---
